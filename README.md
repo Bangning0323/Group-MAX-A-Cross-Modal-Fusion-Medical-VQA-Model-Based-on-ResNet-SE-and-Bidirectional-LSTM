@@ -1,0 +1,1 @@
+# Group-MAX-A-Cross-Modal-Fusion-Medical-VQA-Model-Based-on-ResNet-SE-and-Bidirectional-LSTM
