@@ -1,6 +1,17 @@
-# Group-MAX-A-Cross-Modal-Fusion-Medical-VQA-Model-Based-on-ResNet-SE-and-Bidirectional-LSTM
+# Medical VQA: Multi-Model Comparison with Question Type Awareness
+A PyTorch-based implementation for Medical Visual Question Answering (VQA), featuring three model architectures and question-type-aware evaluation (Yes/No vs. Open-ended questions). The framework supports comprehensive performance analysis with metrics like Accuracy, Exact Match, Macro F1, and BLEU score.
 
-
+# Table of Contents
+Overview
+Key Features
+Model Architectures
+Dataset Preparation
+Installation
+Training & Evaluation
+Results Visualization
+Output Structure
+Arguments
+Citation
 ResNet-SE + BiLSTM Cross-Modal Fusion Medical VQA Model
 
 A deep learning project for Medical Visual Question Answering (Med-VQA) that fuses visual features from pathology images and textual features from clinical questions to provide accurate answers.
